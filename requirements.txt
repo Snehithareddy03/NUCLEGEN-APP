@@ -57,7 +57,7 @@ pytest==8.3.3
 python-dateutil==2.9.0.post0
 pyttsx3==2.98
 pytz==2021.1
-pywin32==308
+#pywin32==308
 referencing==0.36.2
 regex==2024.11.6
 requests==2.32.3
