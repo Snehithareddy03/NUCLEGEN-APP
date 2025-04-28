@@ -52,12 +52,10 @@ pyarrow==19.0.0
 pydeck==0.9.1
 Pygments==2.19.1
 pyparsing==3.2.1
-pypiwin32==223
 pytest==8.3.3
 python-dateutil==2.9.0.post0
 pyttsx3==2.98
 pytz==2021.1
-#pywin32==308
 referencing==0.36.2
 regex==2024.11.6
 requests==2.32.3
