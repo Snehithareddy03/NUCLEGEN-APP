@@ -80,3 +80,4 @@ urllib3==2.2.3
 ViennaRNA==2.7.0
 watchdog==6.0.0
 Werkzeug==3.1.3
+gunicorn
